@@ -1,4 +1,4 @@
-**AESUtil - AES-256 GCM Encryption in Java**
+**##AESUtil - AES-256 GCM Encryption in Java**
 
 A simple and secure Java utility class for performing AES-256 encryption and decryption using `AES/GCM/NoPadding`.
 This example uses Java's built-in cryptography libraries (`javax.crypto`) and supports authenticated encryption via **GCM mode**.
@@ -20,9 +20,9 @@ This example uses Java's built-in cryptography libraries (`javax.crypto`) and su
 
 ---
 
-**How to Use**
+**##How to Use**
 
-###  Encrypt & Decrypt a Message
+#  Encrypt & Decrypt a Message
 
 ```java
 String original = "AccountNo: 123456789 | Amount: $1000";
